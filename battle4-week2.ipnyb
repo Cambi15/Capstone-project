@@ -62,7 +62,6 @@
     " - Filter out all venues that are Indian Resturants.\n",
     " - Find rating , tips and like count for each Indian Resturants using FourSquare API.\n",
     " - Using rating for each resturant , we will sort that data.\n",
-    " - Visualize the Ranking of neighborhoods using folium library(python)"
    ]
   },
   {
@@ -79,7 +78,6 @@
     " - What is best location in New York City for Indian Cuisine ?\n",
     " - Which areas have potential Indian Resturant Market ?\n",
     " - Which all areas lack Indian Resturants ?\n",
-    " - Which is the best place to stay if I prefer Indian Cuisine ?"
    ]
   },
   {
