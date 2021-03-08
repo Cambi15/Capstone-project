@@ -1,7 +1,7 @@
 ## Finding the best Toronto neighborhood to open a new gym
 
-# 1. Introduction
-# 1.1. Background
+# Introduction
+# Background
 # Toronto is the capital city of the Canadian province of Ontario. With a recorded population of 2,731,571 in 2016, it is the most populous city in Canada and the fourth most populous city in North America. The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,245,438 people (as of 2016) surrounding the western end of Lake Ontario, while the Greater Toronto Area (GTA) proper had a 2016 population of 6,417,516. Toronto is an international center of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.
 ## Demographics data
 # The demographics dataset contains 1538 rows and 140 columns. The rows represent the demographics information for the 140 neighborhoods. The data that I found related to this problem is the total population, the youth age, the number of the educated population, and the number of employers. These data were selected only from the demographic dataset. The reason for choosing these data only is the relevance to the problem. The total population is an important feature as the total population increase, it means the availability of more customers. The target customers are the youth and the adults, in the age range of 15 to 45 years, that’s why the population in this age range will be calculated. The educated and employed population are more expected to care about their health and fitness and are expected to go to the gyms/ fitness centers.
